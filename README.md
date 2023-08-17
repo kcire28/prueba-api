@@ -12,10 +12,3 @@ node src/server.js
 el API correra en el puerto port 5000
 
 
-# Levantar el proyecto con docker
-npm install
-
-Ejecutar el comando:
-node src/server.js
-
-el API correra en el puerto port 5000
